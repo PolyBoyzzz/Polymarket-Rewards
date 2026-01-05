@@ -3,7 +3,8 @@
 **Language / 语言**: English | [中文](README.md)
 
 ## For complete code, please contact TG: [@polyboy123](https://t.me/polyboy123)
-
+<img width="3840" height="2160" alt="80afc575bba1c6193d9457b387bc6ba9" src="https://github.com/user-attachments/assets/2b404e92-5c8f-4208-a577-bf3bc537be34" />
+<img width="1342" height="859" alt="9d8aaf842cab273b23d24d25abd30cbe" src="https://github.com/user-attachments/assets/7ed47581-fdc1-4ddd-8940-edc14605d0a5" />
 ## I. System Overview
 
 ### 1.1 Core Features
@@ -747,4 +748,5 @@ For issues, please check:
 
 **Document Version**: 1.0  
 **Last Updated**: 2026-01-03
+
 
