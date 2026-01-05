@@ -1,4 +1,7 @@
 # Polymarket 自动做市机器人文档
+
+**Language / 语言**: [English](README_EN.md) | 中文
+
 ## 需要完整代码请联系TG：[@polyboy123](https://t.me/polyboy123)
 
 ## 一、系统概述
